@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Breaking the rules...",
+      "body": "I mean, it's sort of exciting, isn't it, breaking the rules?",
+      "author": "Hermione",
+      "id": 1
+    },
+    {
+      "title": "Goodness",
+      "body": "Dobby has heard of your greatness, sir, but of your goodness, Dobby never knew.",
+      "author": "Dobby",
+      "id": 2
+    },
+    {
+      "title": "Dreams",
+      "body": "It does not do well to dwell on dreams and forget to live.",
+      "author": "Albus",
+      "id": 3
+    },
+    {
+      "title": "Secret secret...",
+      "body": "Mischief Managed!",
+      "author": "Harry",
+      "id": 4
+    }
+  ]
+}
