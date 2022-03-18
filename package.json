@@ -1,0 +1,20 @@
+{
+  "name": "the-blog",
+  "version": "1.0.0",
+  "description": "## A simple blog app built with React as the front-end and MongoDB as the back-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troywiegel/the-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troywiegel/the-blog/issues"
+  },
+  "homepage": "https://github.com/troywiegel/the-blog#readme"
+}
